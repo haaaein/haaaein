@@ -2,7 +2,7 @@
 
 💻 Majoring in Computer Science
 
-📝 Learing JS, React, Java, Python, C, Node.js, Express, MongoDB
+📝 Learing JS, React, Java, Python, C, Node.js
 
 
 
