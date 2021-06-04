@@ -2,7 +2,7 @@
 
 💻 Majoring in Computer Science
 
-📝 Learing Hadoop, JS, React, Java, Python, C, Node.js
+📝 Learing Big Data, Deep Learning / Machine Learning
 
 
 
