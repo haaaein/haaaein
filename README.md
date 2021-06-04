@@ -2,7 +2,7 @@
 
 💻 Majoring in Computer Science
 
-📝 Learing Big Data, Deep Learning / Machine Learning
+📝 Learing Big Data, Deep Learning
 
 
 
