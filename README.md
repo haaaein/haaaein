@@ -2,7 +2,7 @@
 
 💻 Majoring in Computer Science
 
-📝 Learing Data Engineering, Deep Learning & Machine Learning
+📝 Learing Data Engineering, Data Analysis
 
 
 
