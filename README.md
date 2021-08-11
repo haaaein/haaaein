@@ -2,7 +2,7 @@
 
 💻 Majoring in Computer Science
 
-📝 Learing Data Engineering, Data Analysis
+📝 Learning Data Engineering, Data Analysis
 
 ✅ Python, Java, C, Hadoop, Spark
 
