@@ -1,4 +1,4 @@
-🥸 Haein Yeo
+👩🏻‍💻 Haein Yeo
 
 💻 Majoring in Computer Science
 
