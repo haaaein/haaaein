@@ -4,7 +4,7 @@
 
 📝 Learning Data Engineering, Data Analysis
 
-🐥 ML | DL | Computer Vision | Recommender system
+🐥 ML | DL | Computer Vision | Recommender system | XAI
 
 ✅ Python, C, Java, Hadoop, Spark, SQL, Javascript, HTML, CSS, JSP ...
 
