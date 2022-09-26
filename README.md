@@ -1,6 +1,6 @@
 👩🏻‍💻 Haein Yeo
 
-💻 Majoring in Computer Science
+💻 M.S.& Ph.D. Integrated Student, Department of Artificial Intelligence in Hanyang Human-Centered Computing https://www.hyhcil.com/about-us
 
 🐥 Human-Centered AI | Computer Vision | Recommender system 
 
