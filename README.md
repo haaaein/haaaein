@@ -1,6 +1,6 @@
 👩🏻‍💻 Haein Yeo
 
-💻 M.S.& Ph.D. Integrated Student, Department of Artificial Intelligence in Hanyang Human-Centered Computing https://www.hyhcil.com/about-us
+💻 M.S.& Ph.D. Integrated Student, Department of Artificial Intelligence in Hanyang Human-Centered Computing Lab
 
 🐥 Human-Centered AI | Computer Vision | Recommender system 
 
